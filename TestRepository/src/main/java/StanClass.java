@@ -3,6 +3,6 @@ public class StanClass {
 
     public void testNewBranch(){}
 
-    
+
 
 }
